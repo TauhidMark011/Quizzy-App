@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quizzy app</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="true_message">The answer is correct</string>
+    <string name="false_message">The answer is incorrect</string>
+
+
+    <string name="question_one">The first captain of the first ODI Indian team was Sunil Gavaskar.</string>
+    <string name="question_two">Sabir Bhatia was co-founder of Hotmail.</string>
+    <string name="question_three">Red and Green light are used to indicate foul in Ice hockey.</string>
+    <string name="question_four">Wular lake in Kashmir is the largest fresh water lake in India.</string>
+    <string name="question_five">Ostrich eyes are smaller than its brain.</string>
+    <string name="question_six">Tipu sultan signed a secret agreement with Napoleon.</string>
+    <string name="question_seven">Shakespare wrote 37 Plays.</string>
+    <string name="question_eight">The Ramayan was written by Tulsidas.</string>
+</resources>
